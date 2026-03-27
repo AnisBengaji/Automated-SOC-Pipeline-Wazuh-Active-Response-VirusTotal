@@ -1,0 +1,3 @@
+<directories realtime="yes" check_all="yes">/home</directories>
+<directories realtime="yes" check_all="yes">/tmp</directories>
+<directories realtime="yes" check_all="yes">/etc</directories>
